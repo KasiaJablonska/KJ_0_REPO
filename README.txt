@@ -1,1 +1,2 @@
-README - wersja 2: Master. Podstawy używania GIT – praca na plikach
+README – wersja 3: cwiczenie6
+Dodane na gałęzi cwiczenie6.
